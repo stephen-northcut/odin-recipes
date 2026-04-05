@@ -1,0 +1,30 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    /*border-width: 4px;
+    border: solid red; */
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+#return {
+    text-align: center;
+}
+
+#centered {
+    text-align: center;
+}
+
+li {
+    margin: 4px;
+}
+
+p {
+    margin-left: 15px;
+}
